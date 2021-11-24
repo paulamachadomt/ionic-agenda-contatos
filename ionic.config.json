@@ -1,0 +1,7 @@
+{
+  "name": "ionic-trabalho-final",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
